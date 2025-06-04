@@ -2,7 +2,7 @@
   "name": "my-profile-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_USERNAME.github.io/YOUR_REPO_NAME",
+  "homepage": "https://akosiRIINIERU.github.io/Profile-Card",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
