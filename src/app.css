@@ -50,5 +50,5 @@ h2 {
 
 .socials a:hover {
   text-decoration: underline;
+  box-shadow: rgb(34, 255, 244);
 }
-
