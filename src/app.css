@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffffff;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.profile-card {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 280px;
+  color: #222; /* 💥 this ensures text is dark & readable */
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+  color: #222;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.socials a {
+  text-decoration: none;
+  color: #0077b5;
+  font-weight: 500;
+}
+
+.socials a:hover {
+  text-decoration: underline;
+}
+
