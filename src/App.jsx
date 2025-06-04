@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './app.css';
 import ProfileCard from './ProfileCard';
 
 function App() {
